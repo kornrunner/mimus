@@ -12,6 +12,9 @@
     <testsuite name="Printing">
       <file>tests/Printing.php</file>
     </testsuite>
+    <testsuite name="Unlink">
+      <file>tests/Unlink.php</file>
+    </testsuite>
   </testsuites>
   <filter>
   <whitelist processUncoveredFilesFromWhitelist="true">
